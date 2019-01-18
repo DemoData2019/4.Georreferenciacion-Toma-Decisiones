@@ -9,4 +9,8 @@ variedad de dominios. En este módulo se entrenará al estudiante en el manejo
 básicas de manejo de información georreferenciada, con un enfoque teórico-práctico, que le 
 permitirá hacer uso de funcionalidades equivalentes existentes en herramientas similares.
 
+# Metodología
 
+El curso usa una metodología activa donde los estudiantes tendrán sesiones diarias teórico-prácticas 
+que consistirán en una presentación temática y una serie de problemas a resolver. Además, dichas sesiones 
+fomentarán el trabajo colaborativo y de participación activa en el aprendizaje de los compañeros.
