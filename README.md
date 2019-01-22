@@ -19,3 +19,7 @@ fomentarán el trabajo colaborativo y de participación activa en el aprendiza
 ## Link a materiales 
 
 https://drive.google.com/drive/folders/14n0SyvTPGXF_PftNOBDxoFogocv4C1GE?usp=sharing 
+
+https://drive.google.com/file/d/1MDHZQ1uYPOq5tHLqnQOhtuu11u-wdE09/view?ts=5c472e76
+
+https://drive.google.com/file/d/1gOpx6n6QqDw8iqjj-mjmo7BB6KNuvvTc/view?ts=5c472e8b
