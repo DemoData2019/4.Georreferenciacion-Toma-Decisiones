@@ -14,3 +14,8 @@ permitirá hacer uso de funcionalidades equivalentes existentes en herramientas
 El curso usa una metodología activa donde los estudiantes tendrán sesiones diarias teórico-prácticas 
 que consistirán en una presentación temática y una serie de problemas a resolver. Además, dichas sesiones 
 fomentarán el trabajo colaborativo y de participación activa en el aprendizaje de los compañeros.
+
+
+## Link a materiales 
+
+https://drive.google.com/drive/folders/14n0SyvTPGXF_PftNOBDxoFogocv4C1GE?usp=sharing 
