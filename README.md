@@ -23,3 +23,11 @@ https://drive.google.com/drive/folders/14n0SyvTPGXF_PftNOBDxoFogocv4C1GE?usp=sha
 https://drive.google.com/file/d/1MDHZQ1uYPOq5tHLqnQOhtuu11u-wdE09/view?ts=5c472e76
 
 https://drive.google.com/file/d/1gOpx6n6QqDw8iqjj-mjmo7BB6KNuvvTc/view?ts=5c472e8b
+
+## Ejercicios: 
+
+https://drive.google.com/drive/folders/1YqgUnzYnmV28B1bYbuHDY_RCL4tx1ciE?usp=sharing
+
+## Slides: 
+
+https://drive.google.com/drive/folders/106Pq3iQoxeampy7AajDc9s8ax3mA52qc?usp=sharing
